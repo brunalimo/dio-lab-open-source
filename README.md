@@ -121,7 +121,8 @@ Aprender o básico sobre contribuição no GitHub.
  
 ⚠️ Resolvendo, respondendo ou indicando **issues**
 
-⭐ Adicionando aos favoritos (**star**) 
+⭐ Adicionando aos favoritos (**star**)  
+fim
 
 ### Membros da comunidade que já contribuiram:
 <a href="https://github.com/elidianaandrade/dio-lab-open-source/graphs/contributors">
